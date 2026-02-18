@@ -16,4 +16,4 @@
 - 💬 I'm ready for moving to another place
 - ⚡ Fun fact: love refactoring code and making a juicy generic interface from an `any`
 - 📫 How to reach me: telegram <a href="https://t.me/joseortiz9" target="_blank" rel="noopener">@joseortiz9</a>
-- 💼 Linkedin: https://www.linkedin.com/in/joseortiz09/
+- 💼 Linkedin:https://www.linkedin.com/in/joseortiz09/
